@@ -1,0 +1,9 @@
+# Webstrom File
+.idea
+
+# Node Files
+/api/node_modules/
+
+# Dist Files
+/api/npm-debug.log
+/npm-debug.log
