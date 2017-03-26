@@ -5,5 +5,10 @@
 /api/node_modules/
 
 # Dist Files
+
+# Debug Files
 /api/npm-debug.log
 /npm-debug.log
+
+# Yarn Files
+/api/yarn.lock
